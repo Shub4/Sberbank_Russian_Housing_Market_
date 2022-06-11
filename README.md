@@ -7,6 +7,6 @@
 2. Time Series
 3. Random Forest
 
-* Justify your choice of features and parameters. Analyse models’ quality with supporting tests, charts and comments briey.
+* Justifying choice of features and parameters. Analyse model's quality with supporting tests, charts and comments.
 
-* Use any 2 metrics and justify your choice. Briey describe whether or not models’ quality is appropriate.
+* Use any 2 metrics and justify the final choice. Briefly describe whether or not models’ quality is appropriate.
